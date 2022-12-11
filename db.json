@@ -1,0 +1,49 @@
+{
+  "catalogAirlinesList": [
+     {
+  "tipeLayanan": "ODS",
+  "biaya": 1,
+  "estimasiWaktuSampai": 1,
+  "idPlatform": "PL027",
+  "lokasiAsal": "Bandung",
+  "lokasiTujuan": "Medan",
+  "tanggalExpired": "2022-12-13"
+     },
+     {
+  "tipeLayanan": "Eko",
+  "biaya": 1,
+  "estimasiWaktuSampai": 1,
+  "idPlatform": "PL027",
+  "lokasiAsal": "Jakarta",
+  "lokasiTujuan": "Surabaya",
+  "tanggalExpired": "2022-12-13"
+    },
+     {
+  "tipeLayanan": "ODS",
+  "biaya": 1,
+  "estimasiWaktuSampai": 1,
+  "idPlatform": "PL027",
+  "lokasiAsal": "Bali",
+  "lokasiTujuan": "Medan",
+  "tanggalExpired": "2022-12-13"
+    },
+     {
+  "tipeLayanan": "EKO",
+  "biaya": 1,
+  "estimasiWaktuSampai": 1,
+  "idPlatform": "PL027",
+  "lokasiAsal": "Medan",
+  "lokasiTujuan": "Jakarta",
+  "tanggalExpired": "2022-12-13"
+    },
+     {
+  "tipeLayanan": "EKO",
+  "biaya": 1,
+  "estimasiWaktuSampai": 1,
+  "idPlatform": "PL027",
+  "lokasiAsal": "JAKARTA",
+  "lokasiTujuan": "BANDUNG",
+  "tanggalExpired": "2022-12-13"
+    }
+  ]
+}
